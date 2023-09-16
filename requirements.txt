@@ -1,3 +1,5 @@
 pandas
 plotly
 ipywidgets
+jupyterlab
+ipywidgets
