@@ -3,3 +3,4 @@ plotly
 ipywidgets
 jupyterlab
 ipywidgets
+voila
